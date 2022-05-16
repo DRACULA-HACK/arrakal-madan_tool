@@ -13,3 +13,18 @@ Hehe
 #
 This shows arakkal maadans feature
 #
+# Commands to run
+#
+
+pkg install git
+#
+
+git clone https://github.com/DRACULA-HACK/arrakal-madan_tool
+#
+
+cd arrakal-madan_tool
+#
+
+bash madan.sh
+
+#
