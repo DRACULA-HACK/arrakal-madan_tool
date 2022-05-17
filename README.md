@@ -1,9 +1,9 @@
-# maadan hacking tool
+# trocks mods tool
 
-This tool is fore arrakal madan
+This tool is fore dvd kannapi
 This is a simple hacking script
 Shell programmed and 
-Only fore maadan setan
+Only fore my nanban devid
 And his friends
 Created by master-hack
 
@@ -11,7 +11,7 @@ Created by master-hack
 This tool will show your feature
 Hehe
 #
-This shows arakkal maadans feature
+This shows the kozhi troks mods feature
 #
 # Commands to run
 #
@@ -19,12 +19,13 @@ This shows arakkal maadans feature
 pkg install git
 #
 
-git clone https://github.com/DRACULA-HACK/arrakal-madan_tool
+git clone https://github.com/DRACULA-HACK/troks-mods_tool
+
 #
 
-cd arrakal-madan_tool
+cd troks-mods_tool
 #
 
-bash madan.sh
+bash troks.sh
 
 #
