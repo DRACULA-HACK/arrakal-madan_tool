@@ -15,7 +15,10 @@ This shows the kozhi troks mods feature
 #
 # Commands to run
 #
-
+pkg update
+#
+apt install figlet
+#
 pkg install git
 #
 
