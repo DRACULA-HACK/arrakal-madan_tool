@@ -11,7 +11,7 @@ figlet master-hack
 sleep 15
 clear
 figlet hi
-figlet maadan
+figlet troks-wa
 sleep 10
 figlet this
 figlet script
@@ -22,12 +22,12 @@ figlet you
 sleep 15
 clear
 figlet master-hack
-echo "are you maadan yes or no"
+echo "are you troks mod the kannapi dvd yes or no"
   echo " type( yes or no)"
 read yes
 
-echo "what is maadan fake number on nfa kallam"
-echo  "(type ) the number +1 (249) 70#-####"
+echo "what is the kannapi dvd wha number "
+echo  "(type ) your wa number "
 
 read number
 echo ""
